@@ -1,0 +1,8 @@
+name: brir_env
+channels:
+  - defaults
+dependencies:
+  - spyder
+  - tensorflow-gpu
+  - matplotlib
+prefix: /usr/scratch4/chke5810/anaconda3/envs/brir_env
